@@ -4,4 +4,5 @@
 - 前往下载
 - https://codeload.github.com/SemperChen/tianxiashuge/zip/master
 - true
+- 10
 ---
