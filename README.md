@@ -5,4 +5,5 @@
 - https://codeload.github.com/SemperChen/tianxiashuge/zip/master
 - true
 - 5000
+- true
 ---
